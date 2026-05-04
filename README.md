@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on a fraud detection system <br>👯 I’m looking to collaborate on backend or full-stack projects involving Java, Spring Boot, and scalable system design. I can contribute to API development, database design, and system architecture. Interested in working with people building real, production-grade applications.<br>🤝 I’m looking for someone to practice DSA with consistently solving problems, discussing approaches, and reviewing each other’s code. I’m working in Java and aiming for strong interview-level problem solving.<br>🌱 I’m currently learning Data Structures & Algorithms in Java, along with backend development using Spring Boot focusing on building scalable APIs, database design, and understanding system-level concepts.<br>💬 Ask me about backend development, system design basics, or DSA practice in Java I’m always open to discussing approaches and improving together.<br>⚡ I tend to overthink systems in a good way. I like understanding how things actually work under the hood.<br>
 
 
