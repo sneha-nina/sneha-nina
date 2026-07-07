@@ -1,5 +1,15 @@
 #  About Me:
-- I’m currently working on a fraud detection system and Quarry Bot <br>- I’m looking to collaborate on backend or full-stack projects involving Java, Spring Boot, and scalable system design. I can contribute to API development, database design, and system architecture. Interested in working with people building real, production-grade applications.<br> - I’m looking for someone to practice DSA with consistently solving problems, discussing approaches, and reviewing each other’s code. I’m working in Java and aiming for strong interview-level problem solving.<br> - I’m currently learning Data Structures & Algorithms in Java, along with backend development using Spring Boot focusing on building scalable APIs, database design, and understanding system-level concepts.<br> - Ask me about backend development, system design basics, or DSA practice in Java I’m always open to discussing approaches and improving together.<br> - I tend to overthink systems in a good way. I like understanding how things actually work under the hood.<br>
+● I’m currently working on **FraudShield**, a real-time fraud detection system using Java, Spring Boot, Apache Kafka, and Kafka Streams, and **Quarry Bot**, an AI-powered knowledge assistant.
+
+● I’m looking to collaborate on backend and full-stack projects involving Java, Spring Boot, distributed systems, and scalable application development. I enjoy building REST APIs, designing databases, and architecting production-ready systems.
+
+● I’m looking for a DSA practice partner who enjoys solving problems consistently, discussing multiple approaches, and reviewing each other's code. I primarily solve in Java and am preparing for software engineering interviews.
+
+● I’m currently learning Data Structures & Algorithms in Java, backend engineering with Spring Boot, database design, distributed systems, and system design fundamentals.
+
+● Ask me about Java, Spring Boot, REST APIs, backend development, SQL, or DSA.
+
+● Fun fact: I enjoy understanding how systems work under the hood before building them.
 
 
 ## 🌐 Socials:
